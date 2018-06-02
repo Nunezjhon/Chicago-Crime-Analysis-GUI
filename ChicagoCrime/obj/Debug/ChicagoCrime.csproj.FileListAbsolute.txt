@@ -1,0 +1,20 @@
+C:/Users/JHON/Desktop/ChicagoCrimeAnalysis/ChicagoCrime/bin/Debug/ChicagoCrime.exe.config
+C:/Users/JHON/Desktop/ChicagoCrimeAnalysis/ChicagoCrime/bin/Debug/ChicagoCrime.exe
+C:/Users/JHON/Desktop/ChicagoCrimeAnalysis/ChicagoCrime/bin/Debug/ChicagoCrime.pdb
+C:/Users/JHON/Desktop/ChicagoCrimeAnalysis/ChicagoCrime/obj/Debug/ChicagoCrime.Form1.resources
+C:/Users/JHON/Desktop/ChicagoCrimeAnalysis/ChicagoCrime/obj/Debug/ChicagoCrime.Properties.Resources.resources
+C:/Users/JHON/Desktop/ChicagoCrimeAnalysis/ChicagoCrime/obj/Debug/ChicagoCrime.csproj.GenerateResource.Cache
+C:/Users/JHON/Desktop/ChicagoCrimeAnalysis/ChicagoCrime/obj/Debug/ChicagoCrime.csproj.CoreCompileInputs.cache
+C:/Users/JHON/Desktop/ChicagoCrimeAnalysis/ChicagoCrime/obj/Debug/ChicagoCrime.exe
+C:/Users/JHON/Desktop/ChicagoCrimeAnalysis/ChicagoCrime/obj/Debug/ChicagoCrime.pdb
+C:/Users/JHON/Desktop/ChicagoCrimeAnalysis/ChicagoCrime/obj/Debug/ChicagoCrime.csprojResolveAssemblyReference.cache
+/Users/JHON/Desktop/GitHub Programs/1NEW/ChicagoCrimeAnalysis/ChicagoCrime/bin/Debug/ChicagoCrime.exe.config
+/Users/JHON/Desktop/GitHub Programs/1NEW/ChicagoCrimeAnalysis/ChicagoCrime/bin/Debug/ChicagoCrime.exe
+/Users/JHON/Desktop/GitHub Programs/1NEW/ChicagoCrimeAnalysis/ChicagoCrime/bin/Debug/ChicagoCrime.pdb
+/Users/JHON/Desktop/GitHub Programs/1NEW/ChicagoCrimeAnalysis/ChicagoCrime/obj/Debug/ChicagoCrime.csprojResolveAssemblyReference.cache
+/Users/JHON/Desktop/GitHub Programs/1NEW/ChicagoCrimeAnalysis/ChicagoCrime/obj/Debug/ChicagoCrime.Form1.resources
+/Users/JHON/Desktop/GitHub Programs/1NEW/ChicagoCrimeAnalysis/ChicagoCrime/obj/Debug/ChicagoCrime.Properties.Resources.resources
+/Users/JHON/Desktop/GitHub Programs/1NEW/ChicagoCrimeAnalysis/ChicagoCrime/obj/Debug/ChicagoCrime.csproj.GenerateResource.Cache
+/Users/JHON/Desktop/GitHub Programs/1NEW/ChicagoCrimeAnalysis/ChicagoCrime/obj/Debug/ChicagoCrime.csproj.CoreCompileInputs.cache
+/Users/JHON/Desktop/GitHub Programs/1NEW/ChicagoCrimeAnalysis/ChicagoCrime/obj/Debug/ChicagoCrime.exe
+/Users/JHON/Desktop/GitHub Programs/1NEW/ChicagoCrimeAnalysis/ChicagoCrime/obj/Debug/ChicagoCrime.pdb
